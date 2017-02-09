@@ -1,0 +1,13 @@
+<div id="myDIV" class="header">
+  <h2>My Grocery List</h2>
+  <input type="text" id="myInput" placeholder="Groceries Needed">
+  <span onclick="newElement()" class="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+  <li>Apples</li>
+  <li class="checked">Oranges</li>
+  <li>Grapes</li>
+  <li>Pears</li>
+  <li>Cherries</li>
+</ul>
